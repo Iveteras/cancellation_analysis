@@ -30,3 +30,9 @@ At this part, i just tried to understand the relationship between each column wi
 - **MOST IMPORTANT ONE: Monthly plan cancellation fee was 100%**
 
 ## Forecast and Machine Learning
+
+It was a simple model just to practice and understand a more about machine learning models.
+
+- **Why Random Forest:** The reason that i choose Random Forest model was basically i had a classification problem, also because i've searched a couple models and Random Forest it is a more accurate algorithm than the Decision Tree and is much less subject to overfitting.
+
+- **Tests and Accuracy:** I had a great accuracy of 99%, i guess this results are high because this is a study database.
