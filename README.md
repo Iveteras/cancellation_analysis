@@ -17,15 +17,15 @@ At this part, i just tried to understand the relationship between each column wi
 
 - **People older than 50 tend to cancel** 
 
-(GRAFICO DA IDADE)
+![](/images/age.png)
 
 - **If someone has more then four calls by the call center, they tend to cancel too**
 
-(GRÁFICO DO CALL)
+![](/images/callcenter_boxplot.png) ![](/images/callcenter_bar.png)
 
 - **More then 20 days without go to the gym also drives to a cancel scenario**
 
-(GRÁFICOS DE DELAY)
+![](/images/delay.png)
 
 - **MOST IMPORTANT ONE: Monthly plan cancellation fee was 100%**
 
