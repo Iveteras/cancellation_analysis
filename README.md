@@ -1,4 +1,4 @@
-# A Study about fee cancellation
+# A fee cancellation analysis
 
 This is an analysis to understand what is causing the cancellation of plans at a gym
 
